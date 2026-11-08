@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | Видео (30 секунд) | [demo_cropped.mp4](demo_cropped.mp4) |
-| Страница кейса | [index.html](index.html) (после включения GitHub Pages: [страница проекта](https://steelykt.github.io/HappyVille/)) |
+| Страница кейса | [index.html](index.html) ([страница проекта](https://steelykt.github.io/HappyVille/)) |
 | Проект Godot | папка [project](project) |
 | Резюме | [Resume_Budishchev_UXUI.pdf](Resume_Budishchev_UXUI.pdf) |
 
