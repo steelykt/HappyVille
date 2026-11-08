@@ -2,13 +2,14 @@
 
 Демо-проект технического UI-художника: ферма с полем слияния, магазин и город с квестами. Собран в Godot 4 с общей темой, компонентами и проверкой на разных разрешениях.
 
-**Автор:** [Имя] · [почта / Telegram]
+**Автор:** Арсен Будищев · a.budishchev@mail.ru · Telegram [@ArsenBud](https://t.me/ArsenBud)
 
 | | |
 |---|---|
 | Видео (30 секунд) | [demo_cropped.mp4](demo_cropped.mp4) |
-| Страница кейса | [index.html](index.html) (после включения GitHub Pages: `https://[username].github.io/[repo]/`) |
+| Страница кейса | [index.html](index.html) (после включения GitHub Pages: `https://steelykt.github.io/HappyVille/`) |
 | Проект Godot | папка [project](project) |
+| Резюме | [Resume_Budishchev_UXUI.pdf](Resume_Budishchev_UXUI.pdf) |
 
 ## Экраны
 
