@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | Видео (30 секунд) | [demo_cropped.mp4](demo_cropped.mp4) |
-| Страница кейса | [index.html](index.html) (после включения GitHub Pages: `https://steelykt.github.io/HappyVille/`) |
+| Страница кейса | [index.html](index.html) (после включения GitHub Pages: [страница проекта](https://steelykt.github.io/HappyVille/)) |
 | Проект Godot | папка [project](project) |
 | Резюме | [Resume_Budishchev_UXUI.pdf](Resume_Budishchev_UXUI.pdf) |
 
@@ -33,9 +33,33 @@
 - **Навигация:** три вкладки, экраны подгружаются в общий контейнер.
 - **Состояния кнопок:** обычная, наведение, нажатие, недоступная.
 
-## Стиль
+## Стайлгайд
 
-| Назначение | Цвет |
+### Кнопки
+<table>
+<tr>
+<td align="center"><img src="project/assets/ui/buttons/btn_rect_green.png" height="56"><br>зелёная</td>
+<td align="center"><img src="project/assets/ui/buttons/btn_rect_blue.png" height="56"><br>синяя</td>
+<td align="center"><img src="project/assets/ui/buttons/btn_rect_purple.png" height="56"><br>фиолетовая</td>
+<td align="center"><img src="project/assets/ui/buttons/btn_disabled.png" height="56"><br>недоступная</td>
+</tr>
+</table>
+
+### Панели (9-slice)
+<table>
+<tr>
+<td align="center"><img src="project/assets/ui/panels/panel_peach.png" height="120"><br>панель</td>
+<td align="center"><img src="project/assets/ui/panels/panel_sky.png" height="120"><br>заказ</td>
+<td align="center"><img src="project/assets/ui/panels/pill_small.png" height="48"><br>пилюля ресурса</td>
+<td align="center"><img src="project/assets/ui/panels/slot_cream.png" height="90"><br>слот предмета</td>
+</tr>
+</table>
+
+### Иконки
+<img src="project/assets/ui/icons/icon_coin.png" height="48"> <img src="project/assets/ui/icons/icon_gem.png" height="48"> <img src="project/assets/ui/icons/icon_bolt.png" height="48"> <img src="project/assets/ui/icons/icon_star.png" height="48"> <img src="project/assets/ui/icons/icon_hammer.png" height="48"> <img src="project/assets/ui/icons/icon_bread.png" height="48">
+
+### Палитра
+| Назначение | HEX |
 |---|---|
 | Панель / кромка | `#FDD7BE` / `#E5A07E` |
 | Текст | `#6A2C10` |
