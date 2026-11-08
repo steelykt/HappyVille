@@ -42,6 +42,43 @@
 | Золото | `#FFC92E` |
 
 Скругления 30–56 px, нижняя кромка 6–12 px, округлый жирный шрифт.
+## Стайлгайд
+
+### Кнопки
+<table>
+<tr>
+<td align="center"><img src="project/assets/ui/buttons/btn_rect_green.png" height="56"><br>зелёная</td>
+<td align="center"><img src="project/assets/ui/buttons/btn_rect_blue.png" height="56"><br>синяя</td>
+<td align="center"><img src="project/assets/ui/buttons/btn_rect_purple.png" height="56"><br>фиолетовая</td>
+<td align="center"><img src="project/assets/ui/buttons/btn_disabled.png" height="56"><br>недоступная</td>
+</tr>
+</table>
+
+### Панели (9-slice)
+<table>
+<tr>
+<td align="center"><img src="project/assets/ui/panels/panel_peach.png" height="120"><br>панель</td>
+<td align="center"><img src="project/assets/ui/panels/panel_sky.png" height="120"><br>заказ</td>
+<td align="center"><img src="project/assets/ui/panels/pill_small.png" height="48"><br>пилюля ресурса</td>
+<td align="center"><img src="project/assets/ui/panels/slot_cream.png" height="90"><br>слот предмета</td>
+</tr>
+</table>
+
+### Иконки
+<img src="project/assets/ui/icons/icon_coin.png" height="48">
+<img src="project/assets/ui/icons/icon_gem.png" height="48">
+<img src="project/assets/ui/icons/icon_bolt.png" height="48">
+<img src="project/assets/ui/icons/icon_star.png" height="48">
+<img src="project/assets/ui/icons/icon_hammer.png" height="48">
+<img src="project/assets/ui/icons/icon_bread.png" height="48">
+
+### Палитра
+| Назначение | HEX |
+|---|---|
+| Панель / кромка | `#FDD7BE` / `#E5A07E` |
+| Текст | `#6A2C10` |
+| Синий / зелёный / фиолетовый | `#52ACFF` / `#59C93B` / `#8F3FD0` |
+| Золото | `#FFC92E` |
 
 ## Что решал по ходу
 
