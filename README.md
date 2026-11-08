@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | Видео (30 секунд) | [demo_cropped.mp4](demo_cropped.mp4) |
-| Страница кейса | [index.html](index.html) (после включения GitHub Pages: `https://[username].github.io/[repo]/`) |
+| Страница кейса | [index.html](index.html) (после включения GitHub Pages: `[https://[username].github.io/[repo]/](https://steelykt.github.io/HappyVille/)`) |
 | Проект Godot | папка [project](project) |
 
 ## Экраны
