@@ -65,12 +65,7 @@
 </table>
 
 ### Иконки
-<img src="project/assets/ui/icons/icon_coin.png" height="48">
-<img src="project/assets/ui/icons/icon_gem.png" height="48">
-<img src="project/assets/ui/icons/icon_bolt.png" height="48">
-<img src="project/assets/ui/icons/icon_star.png" height="48">
-<img src="project/assets/ui/icons/icon_hammer.png" height="48">
-<img src="project/assets/ui/icons/icon_bread.png" height="48">
+<img src="project/assets/ui/icons/icon_coin.png" height="48"> <img src="project/assets/ui/icons/icon_gem.png" height="48"> <img src="project/assets/ui/icons/icon_bolt.png" height="48"> <img src="project/assets/ui/icons/icon_star.png" height="48"> <img src="project/assets/ui/icons/icon_hammer.png" height="48"> <img src="project/assets/ui/icons/icon_bread.png" height="48">
 
 ### Палитра
 | Назначение | HEX |
