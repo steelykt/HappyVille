@@ -1,0 +1,50 @@
+[gd_scene format=3 uid="uid://udiwtuai6hiv"]
+
+[ext_resource type="Theme" uid="uid://cvjmlxvskcwws" path="res://assets/ui/ui_theme.tres" id="1_bw2a4"]
+[ext_resource type="Script" uid="uid://cq17vd67o4g7o" path="res://screens/shop_card.gd" id="2_hoswk"]
+
+[node name="ShopCard" type="PanelContainer" unique_id=1155024885]
+size_flags_horizontal = 3
+theme = ExtResource("1_bw2a4")
+theme_type_variation = &"PeachPanel"
+script = ExtResource("2_hoswk")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1204234228]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="SlotHolder" type="PanelContainer" parent="VBoxContainer" unique_id=1978693833]
+layout_mode = 2
+size_flags_horizontal = 4
+theme = ExtResource("1_bw2a4")
+theme_type_variation = &"SlotPanel"
+
+[node name="Icon" type="TextureRect" parent="VBoxContainer/SlotHolder" unique_id=1031326493]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(150, 150)
+layout_mode = 2
+expand_mode = 1
+stretch_mode = 5
+
+[node name="NameLabel" type="Label" parent="VBoxContainer" unique_id=549314350]
+unique_name_in_owner = true
+layout_mode = 2
+horizontal_alignment = 1
+
+[node name="DescLabel" type="Label" parent="VBoxContainer" unique_id=64544264]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+theme = ExtResource("1_bw2a4")
+theme_type_variation = &"SoftLabel"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="BuyButton" type="Button" parent="VBoxContainer" unique_id=410211680]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 90)
+layout_mode = 2
+theme = ExtResource("1_bw2a4")
+theme_type_variation = &"PurpleButton"
+theme_override_constants/icon_max_width = 56
+expand_icon = true

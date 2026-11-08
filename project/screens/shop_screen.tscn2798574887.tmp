@@ -1,0 +1,30 @@
+[gd_scene format=3 uid="uid://de66a57yexk4w"]
+
+[ext_resource type="Script" uid="uid://dbuiujoh0xeyy" path="res://screens/shop_screen/shop_screen.gd" id="1_dklqh"]
+
+[node name="ShopScreen" type="Control" unique_id=1376972648]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_dklqh")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1634754201]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 20
+
+[node name="Title" type="Label" parent="VBoxContainer" unique_id=1676792117]
+layout_mode = 2
+text = "Магазин"
+horizontal_alignment = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="VBoxContainer" unique_id=1268361725]
+layout_mode = 2
+
+[node name="CardGrid" type="GridContainer" parent="VBoxContainer/ScrollContainer" unique_id=1762150879]
+unique_name_in_owner = true
+layout_mode = 2
+columns = 2

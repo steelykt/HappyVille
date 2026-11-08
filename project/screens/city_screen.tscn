@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cqmlm1l0v5njd"]
+
+[ext_resource type="Script" uid="uid://bkyjkdwcpqge1" path="res://screens/city_screen.gd" id="1_65lwl"]
+
+[node name="CityScreen" type="Control" unique_id=524408825]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_65lwl")
